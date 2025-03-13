@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/RasicSolutions/AgileProject/_apis/build/status%2FNikolara97.application?branchName=master)](https://dev.azure.com/RasicSolutions/AgileProject/_build/latest?definitionId=14&branchName=master)
